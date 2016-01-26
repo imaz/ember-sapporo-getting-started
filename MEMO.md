@@ -1,2 +1,2 @@
-https://guides.emberjs.com/v2.3.0/tutorial/routes-and-templates/
-ここやってる
+https://guides.emberjs.com/v2.3.0/tutorial/model-hook/
+ここまでやった。次は次のページ！
